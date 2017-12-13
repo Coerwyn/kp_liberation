@@ -11,22 +11,22 @@
 		<!-- (WIP) Turkish localization made by Carbneth: https://github.com/Carbneth -->
 		<!-- Portuguese localization made by NomadRomeo: https://github.com/NomadRomeo -->
 		<Key ID="STR_MISSION_TITLE">
-			<Original>KP Liberation v0.962</Original>
-			<German>KP Liberation v0.962</German>
-			<Spanish>KP Liberation v0.962</Spanish>
-			<Italian>KP Liberation v0.962</Italian>
-			<Chinesesimp>KP Liberation v0.962</Chinesesimp>
-			<Turkish>KP Liberation v0.962</Turkish>
-			<Portuguese>KP Liberation v0.962</Portuguese>
+			<Original>KP Liberation v0.963dev</Original>
+			<German>KP Liberation v0.963dev</German>
+			<Spanish>KP Liberation v0.963dev</Spanish>
+			<Italian>KP Liberation v0.963dev</Italian>
+			<Chinesesimp>KP Liberation v0.963dev</Chinesesimp>
+			<Turkish>KP Liberation v0.963dev</Turkish>
+			<Portuguese>KP Liberation v0.963dev</Portuguese>
 		</Key>
 		<Key ID="STR_MISSION_VERSION">
-			<Original>v0.962</Original>
-			<German>v0.962</German>
-			<Spanish>v0.962</Spanish>
-			<Italian>v0.962</Italian>
-			<Chinesesimp>v0.962</Chinesesimp>
-			<Turkish>v0.962</Turkish>
-			<Portuguese>v0.962</Portuguese>
+			<Original>v0.963dev</Original>
+			<German>v0.963dev</German>
+			<Spanish>v0.963dev</Spanish>
+			<Italian>v0.963dev</Italian>
+			<Chinesesimp>v0.963dev</Chinesesimp>
+			<Turkish>v0.963dev</Turkish>
+			<Portuguese>v0.963dev</Portuguese>
 		</Key>
 		<Key ID="STR_Deploy_OnPoint">
 			<Original>Deploy</Original>
@@ -5367,13 +5367,6 @@
 			<Turkish>Sivil Repütasyonu</Turkish>
 			<Chinesesimp>民间声望</Chinesesimp>
 			<Portuguese>Reputação Civil</Portuguese>
-		</Key>
-		<Key ID="STR_PARAMS_DEBUG_SAVE">
-			<Original>Saving</Original>
-			<German>Savegame Daten (zeigt komplettes Savegame Array jede Minute in der server.rpt)</German>
-			<Italian>Salvataggio Dati</Italian>
-			<Chinesesimp>保存中</Chinesesimp>
-			<Portuguese>Salvando</Portuguese>
 		</Key>
 		<Key ID="STR_NOTIFICATION_CIV_INFORMANT_START">
 			<Original>A civilian from %1 says he has some information for us.</Original>
