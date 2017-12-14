@@ -186,7 +186,7 @@ class ACE_Settings {
         force = 1;
     };
     class ace_medical_medicSetting {
-        value = 2;
+        value = 1;
         typeName = "SCALAR";
         force = 1;
     };
@@ -196,7 +196,7 @@ class ACE_Settings {
         force = 1;
     };
     class ace_medical_enableFor {
-        value = 0;
+        value = 0;  // 0 is PC, 1 is PC and AI
         typeName = "SCALAR";
         force = 1;
     };
@@ -206,7 +206,7 @@ class ACE_Settings {
         force = 1;
     };
     class ace_medical_bleedingCoefficient {
-        value = 1.3;
+        value = 0.8;
         typeName = "SCALAR";
         force = 1;
     };
@@ -246,7 +246,7 @@ class ACE_Settings {
         force = 1;
     };
     class ace_medical_playerDamageThreshold {
-        value = 1;
+        value = 1.75;
         typeName = "SCALAR";
         force = 1;
     };
@@ -256,7 +256,7 @@ class ACE_Settings {
         force = 1;
     };
     class ace_medical_enableUnconsciousnessAI {
-        value = 1;
+        value = 0;
         typeName = "SCALAR";
         force = 1;
     };
@@ -266,7 +266,7 @@ class ACE_Settings {
         force = 1;
     };
     class ace_medical_preventInstaDeath {
-        value = 0;
+        value = 1;
         typeName = "BOOL";
         force = 1;
     };
@@ -386,12 +386,12 @@ class ACE_Settings {
         force = 1;
     };
     class ace_medical_enableRevive {
-        value = 0;
+        value = 1;
         typeName = "SCALAR";
         force = 1;
     };
     class ace_medical_maxReviveTime {
-        value = 120;
+        value = 300;
         typeName = "SCALAR";
         force = 1;
     };
@@ -856,7 +856,7 @@ class ACE_Settings {
         force = 1;
     };
     class ace_scopes_defaultZeroRange {
-        value = 100;
+        value = 300;
         typeName = "SCALAR";
         force = 1;
     };
